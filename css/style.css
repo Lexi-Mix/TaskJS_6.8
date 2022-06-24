@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(85, 85, 85);
+}
+
+.header {
+    height: 300px;
+    position: relative;
+    background: linear-gradient(90deg, #f598a8, #f6edb2);
+    border-radius: 0 0 20px 20px;
+}
+
+h1 {
+    position: absolute;
+    font-size: 60px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -500px;
+    width: 1000px;
+    text-align: center;
+}
+
+.nav {
+    height: 100px;
+    margin: 0 20px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 35px;
+
+}
+
+li {
+    list-style-type: none;
+    padding: 20px 65px;
+    background-color: bisque;
+    border-radius: 30px;
+    -webkit-box-shadow: 2px 4px 25px -7px rgba(0, 0, 0, 0.84);
+    box-shadow: 2px 4px 25px -7px rgba(0, 0, 0, 0.84);
+    /* простите за использование теней, ну уж очень захотелось попробовать */
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+    color: gray;
+}
+
+.footer {
+    height: 300px;
+    position: relative;
+    background: linear-gradient(90deg, #f598a8, #f6edb2);
+    border-radius: 20px 20px 0 0;
+}
