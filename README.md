@@ -19,7 +19,7 @@
 
 ## ❗ Ссылка на [GitHub Pages]( https://lexi-mix.github.io/TaskJS_6.8/)
 
-<div aling="center">
+<div align="center">
 
 ![goodluck.gif](https://media3.giphy.com/media/Od0QRnzwRBYmDU3eEO/giphy.gif?cid=ecf05e47ufy98xtdiow3icc6n4lqhh2sc0tcyf348qmwtj8s&rid=giphy.gif&ct=g)
 
